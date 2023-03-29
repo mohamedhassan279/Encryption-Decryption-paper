@@ -1,7 +1,5 @@
-# Encryption&Decryption paper
-This is a research paper about Encryption &amp; Decryption
+# Encryption & Decryption paper
 
----
 ## paper conclusion
 Cryptography has played a vital role in keeping our data safe from hacking and other threats. Cryptographic algorithms have been developed over the years starting with Caesar Cipher (invented around 100 BC) [7], which was simply by shifting each letter 3 steps back like that: 
 
