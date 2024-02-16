@@ -12,7 +12,7 @@ up till 2005 when ECC (Elliptic-Curve-cryptography) has been invented, and you m
 ---
 ## Contributers:
 * [Adel Mahmoud](https://github.com/Adel-Mahmoud-Mohamed)
-* Omar Tarek
+* [Omar Tarek](https://github.com/OmarTarekAbdelWahab)
 * [Mohamed Hassan](https://github.com/mohamedhassan279)
 * [Mahmoud Attia](https://github.com/mahmoudattia12)
 * [Mahmoud Ghlab](https://github.com/Mahmoudjobdis)
